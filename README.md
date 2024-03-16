@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![2024-03-16_10-00-12](https://github.com/Yessenali-Yerkebulan/stopwatch-react/assets/113698340/572087c5-5792-456b-9e2f-82f5d0f5dd56)
 
 Currently, two official plugins are available:
 
